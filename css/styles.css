@@ -15,9 +15,10 @@ body {
     text-align: center;
 }
 
-.btn {
+.btn-main {
     cursor: pointer;
 }
+
 
 .schedule-body {
     width: 93px;
